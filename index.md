@@ -12,7 +12,7 @@ Programming Projects
 ![Escape Room](images/escape_room2.png)
 
 ---
-### [Project 2 Title | CSCI 315](project2)
+### [Data Compressor | CSCI 415](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
