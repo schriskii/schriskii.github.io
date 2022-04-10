@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Data Compressor | CSCI 415](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Data Compressor](images/compressor1.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project3)
