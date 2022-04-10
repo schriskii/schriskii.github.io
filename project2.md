@@ -6,7 +6,7 @@ Data Compressor
 -   **Class:** CSCI 415
 -   **Grade:** (unknown)
 -   **Language(s):** C++
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/schriskii/alg-project-2/)  
+-   **Source Code Repository:** [schriskii/alg-project.2](https://github.com/schriskii/alg-project-2/)  
     (Please [email me](mailto:sckoenig@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
