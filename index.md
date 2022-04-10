@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Escape Room | CSCI 325](project1)
 
-![Escape Room](images/escape_room1.png)
+![Escape Room](images/escape_room2.png)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
