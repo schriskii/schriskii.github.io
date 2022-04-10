@@ -1,6 +1,8 @@
 Portfolio
 =========
 
+*The grades for most of the projects have been lost to time, according to my professors. Apologies.
+
 Programming Projects
 --------------------
 
