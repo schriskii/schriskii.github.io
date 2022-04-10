@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:sckoenig@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Escape Room | CSCI 325](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Escape Room](images/escape_room1.png)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
