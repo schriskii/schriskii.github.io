@@ -12,17 +12,17 @@ Programming Projects
 ![Escape Room](images/escape_room2.png)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Project 2 Title | CSCI 315](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Project 3 Title | CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Project 4 Title | CSCI 332](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -31,36 +31,37 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Verifying That Which Cannot Be Grasped](https://docs.google.com/document/d/1ZNbeA9MevgD3cjFgzCnxWLkcZggqT354qdBKwbuCpDw/edit?usp=sharing)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** CSCI 315
+-   **Grade:** (unknown)
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Breaches of Privacy - Necessary? Effective?](https://docs.google.com/document/d/1pfkW77enIi5umBod2bzTKs3Vm8uBdAExJs8t-v6PtHY/edit?usp=sharing)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 415
+-   **Grade:** (unknown)
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [The Inevitability of Licensing](https://docs.google.com/document/d/1kWXfmW7T0jx3ZdKfflAbFLzuGBPuYcCa9EIM1JlUFqo/edit?usp=sharing)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 431
+-   **Grade:** (unknown)
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Kernel Timer Project](https://docs.google.com/presentation/d/1rUXafzbp572r3mulk9NOJTWv4DAIfTRf4O8L5nXH-sI/edit?usp=sharing)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 431
+- **Grade:** (unknown)
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Presentation 2 Title](https://youtu.be/Zdrd_YKLtOc)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 301
+- **Grade:** (unknown)
+- **Note:** This presentation doesn't make sense with just the slides, so I included a video link.
 
 ---
 
