@@ -15,7 +15,7 @@ A program which reads an html document file and searches for links to other page
 
 ## How to compile and run the program
 
-Compile the program using your C++ compiler of choice. Run the executable and provide an html document file as the argument.
+WIth g++ installed, open the project folder in terminal and type `make`. Run the executable and provide an html document file as the argument.
 
 ## UI Design
 
