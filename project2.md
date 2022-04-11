@@ -16,7 +16,17 @@ A program which compresses and decompresses files using Huffman encoding. Compre
 
 ## How to compile and run the program
 
-Download the source code, and compile and run it with your C++ compiler of choice (e.g. g++). Compile it to an exe, then call it with the arguments:
+Open the project folder in terminal and type `make` with g++ installed. There are several options for testing:
+
+- `make test`
+- `make img`
+- `make img2`
+- `make text`
+- `make sheet`
+- `make vid`
+- `make clean` (removes the executable and any compressed files)
+
+To run it on a file of your choice, call it with the arguments:
 - `-c` to compress, or `-d` to decompress
 - the filename to compress/decompress
 
