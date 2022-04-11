@@ -8,6 +8,7 @@ Data Compressor
 -   **Language(s):** C++
 -   **Source Code Repository:** [schriskii/alg-project-2](https://github.com/schriskii/alg-project-2/)  
     (Please [email me](mailto:sckoenig@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Collaboration With:** Carter Hinkle
 
 ## Project description
 
