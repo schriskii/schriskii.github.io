@@ -19,9 +19,9 @@ Programming Projects
 ![Data Compressor](images/compressor1.png)
 
 ---
-### [Project 3 Title | CSCI 325](project3)
+### [HTML Parser | CSCI 315](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![HTML Parser](images/html1.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project4)
