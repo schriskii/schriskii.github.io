@@ -1,7 +1,7 @@
 Portfolio
 =========
 
-*The grades for the projects/papers/presentations have been lost to time, according to my professors. Apologies.
+*The grades for most of the projects/papers/presentations have been lost to time, according to my professors. Also, due to repo transfers, the exact dates for file creation/modified have been lost. Apologies.
 
 Programming Projects
 --------------------
@@ -62,7 +62,7 @@ Presentations
 ### [Presentation 2 Title](https://youtu.be/Zdrd_YKLtOc)
 
 - **Class:** CSCI 301
-- **Grade:** (unknown)
+- **Grade:** 100%
 - **Note:** This presentation doesn't make sense with just the slides, so I included a video link.
 
 ---
