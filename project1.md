@@ -7,7 +7,7 @@ Escape Room
 -   **Grade:** (unknown)
 -   **Language(s):** Java
 -   **Source Code Repository:** [schriskii/escape_room](https://github.com/schriskii/escape_room/)
--   
+   
     (Please [email me](mailto:sckoenig@csustudent.net?subject=GitHub%20Access) to request access.)
 -   **Collaboration With:** Carter Hinkle, Alexander Rodriguez, Yasmine
 
