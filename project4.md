@@ -1,48 +1,34 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Kernel Timer
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** CSCI 431
+-   **Grade:** (unknown)
+-   **Language(s):** C
+-   **Source Code Repository:** [schriskii/kernel-timer](https://github.com/schriskii/kernel-timer)  
+    (Please [email me](mailto:sckoenig@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Collaboration With:** Carter Hinkle, Armando Diaz
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A kernel add-on which implements a timer to a pre-existing kernel. The timer accurately keeps track of how many seconds have passed. There are also demos included which use the timer to track elapsed time, repeat a task at a set interval, and time how long a calculation takes.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+With `qemu-system-i386` installed, open the project folder in terminal and type `make run`.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+When first opened, the kernel shows the user a list of options and key combinations. Pressing ctrl+S starts the timer, and pressing ctrl+S again stops the timer and displays the elapsed time (see Fig 1). Pressing ctrl+A starts the timer and prints a message every two seconds (see Fig 2). Pressing ctrl+E starts the timer and begins searching for prime numbers, then stops the timer and prints the elapsed time after it has found all primes under 3.5 million (see Fig 3) - so it times how long the calculations take.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot](images/kernel1.png)  
+Fig 1. Starting and stopping the timer.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/kernel2.png)  
+Fig 2. Using the timer to print a message to the screen every two seconds.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](kernel3.png)  
+Fig 3. Using the timer to measure the time it takes to find all prime numbers under 3,500,000.
 
 [Back to Portfolio](./)
