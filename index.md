@@ -24,9 +24,9 @@ Programming Projects
 ![HTML Parser](images/html1.png)
 
 ---
-### [Project 4 Title | CSCI 332](project4)
+### [Kernel Timer | CSCI 431](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Kernel Timer](images/kernel1.png)
 
 ---
 
